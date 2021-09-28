@@ -7,5 +7,7 @@ This project was designed with [Create React App] & Raw CSS(https://github.com/P
 https://github.com/ProgrammingHeroWC4/the-superhero-direction-Ashfika-Lira
 
 ## From the project you can get to know about
-
-- Bullet list - Day 35 object mastering - Advanced video - Object video
+ 
+- - Day 35 object mastering 
+- - Advanced video 
+- - Object video
